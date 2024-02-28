@@ -1,0 +1,5 @@
+train: D:\UNT_CICLO_8\PROCESAMIENTO_DE_SENIALES_E_IMAGENES\RedNeuronal\PianoVision\dataset\train/
+val: D:\UNT_CICLO_8\PROCESAMIENTO_DE_SENIALES_E_IMAGENES\RedNeuronal\PianoVision\dataset\val/
+test:
+nc: 7
+names: ["MI", "SOL", "Naranja", "verde", "Rojo", "DO", "azul"]
